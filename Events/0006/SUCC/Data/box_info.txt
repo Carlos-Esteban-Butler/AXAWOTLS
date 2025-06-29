@@ -1,0 +1,4 @@
+Label corresponds to csv files. Box format is [y1, y2],[x1, x2] 
+spec box at [[251, 509], [0, 2047]]
+back box at [[12, 160], [0, 2047]]
+source_size box at [[172, 265], [394, 432]]
