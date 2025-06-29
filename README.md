@@ -5,7 +5,7 @@ Contact: carlosbutler210@gmail.com
 
 ## Description
 
-AXAWOTLS is a programm designed to process and analyze spectra for experiments on WDM of aluminum at GSI/FAIR using laser-plasma backlighters. Currently, the code can accommodate spectrometer designs with flat or spherical crystals, but should be easy to extend to other cases. The programm is designed to be user friendly and at the surface level should only require the user to be familiar with two codes: main.py and jsonCreator.py. In addition, the user will need to be aquainted with the format of the Events directory, where the TIFF images from the shots, along with other data are stored. The results are also saved as csv files here. 
+AXAWOTLS (Analysis of X-ray Absorption for WDM Observation and Testing of Locally-made Spectrometers) is a programm designed to process and analyze spectra for experiments on WDM of aluminum at GSI/FAIR using laser-plasma backlighters. Currently, the code can accommodate spectrometer designs with flat or spherical crystals, but should be easy to extend to other cases. The programm is designed to be user friendly and at the surface level should only require the user to be familiar with two codes: main.py and jsonCreator.py. In addition, the user will need to be aquainted with the format of the Events directory, where the TIFF images from the shots, along with other data are stored. The results are also saved as csv files here. 
 
 The first three sections of this README contain the information neccessary to use the programm for an average user. The rest elaborates on more detailed areas of the code and can be used as a reference. Note that .\ always refers to the directory that holds this README and the Events and Codes directories.
 
